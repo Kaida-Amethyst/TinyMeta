@@ -1,5 +1,10 @@
 
 
+// Trait provides type traits for compile-time programming
+// - [ ] IsSame: To check if two types are same
+// - [ ] IfThenElse: To select type based on condition
+// - [ ] ... more
+
 namespace Meta {
 namespace Trait {
 

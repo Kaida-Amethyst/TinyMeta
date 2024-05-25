@@ -1,4 +1,22 @@
 
+// List Provide a data structure to store a list of values
+// Will support the following operations:
+// 
+// - [x] declear a list
+// - [x] get the first element of the list
+// - [ ] get the last element of the list
+// - [ ] get the nth element of the list
+// - [ ] get the length of the list
+// - [ ] get the tail of the list (pop the first element)
+// - [ ] init of the list (pop the last element)
+// - [ ] reverse of the list
+// - [ ] append of the list
+// - [ ] concat of the list
+// - [ ] trasnform the list
+// - [ ] foldl the list
+// - [ ] foldr the list
+// - [ ] map the list
+// - [ ] ... and more
 
 
 namespace Meta {
